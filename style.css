@@ -5538,19 +5538,19 @@ body.modal-open {
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
-	background-image: url('https://cdn.statically.io/img/www.arqkza.com.br/img/hero-5.webp');
+	background-image: url('https://rawcdn.githack.com/humanThalison/cndarqkza/954c0a48ff09855e6051ba19dbc72a862bb7b391/hero-5.webp');
 }
 .hero-branding-img-2 {
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
-	background-image: url('https://cdn.statically.io/img/www.arqkza.com.br/img/hero-6.webp');
+	background-image: url(https://rawcdn.githack.com/humanThalison/cndarqkza/954c0a48ff09855e6051ba19dbc72a862bb7b391/hero-6.webp');
 }
 .hero-branding-img-3 {
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
-	background-image: url('https://cdn.statically.io/img/www.arqkza.com.br/img/hero-7.webp');
+	background-image: url('https://rawcdn.githack.com/humanThalison/cndarqkza/954c0a48ff09855e6051ba19dbc72a862bb7b391/hero-7.webp');
 }
 .hero-center-creative-v2-section{
     position: absolute;
